@@ -54,6 +54,6 @@ Guess the word: bootstrap
 Congratulations, Nitin! You guessed the word 'bootstrap' correctly!
 
 Congratulations, Nitin! You successfully completed all 10 levels!
-Your final score is: 250
+Your final score is: 300
 Do you want to play again? (yes/no): no
 Thanks for playing! Goodbye!
